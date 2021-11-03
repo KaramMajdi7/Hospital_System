@@ -24,5 +24,5 @@ And at last if we press the done button it will take us to the last page with th
 ![JavaProject4](https://user-images.githubusercontent.com/74671857/139913954-6d344d37-3f31-432f-9073-9527dca532ff.JPG)
 
 And I hope someday that the program will be developed and changed to a better way than this because this was my first program to do 
-and it was like 2 years ago, and it helped me how to use the OOP concepts and software engineering concepts.
+and it was like 2 years ago, and it helped me how to develop and understand the OOP concepts and software engineering concepts.
 
